@@ -1,0 +1,49 @@
+# === Backend (Spring Boot) ===
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.idea/
+backend/*.iml
+backend/logs/
+backend/out/
+
+# === Frontend (React + Node) ===
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.DS_Store
+
+# === General ===
+*.log
+*.tmp
+*.swp
+*.bak
+*.class
+
+# Ignore Git internal
+.git
+
+# === IDE / Eclipse workspace ===
+.metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Backend (Spring Boot)
+target/
+*.log
+uploads/
+
+# Frontend (React + Vite)
+node_modules/
+dist/
+
+# Environment/config
+.env
