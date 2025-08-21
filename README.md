@@ -51,18 +51,27 @@ npm install
 npm run dev
 
 # Screenshots
+
+# Home Page
+
 ![Home page](https://github.com/vimal046/eventapp/blob/main/home%20page.jpg?raw=true)
 
-
+# Register Page
 ![Register page](https://github.com/vimal046/eventapp/blob/main/register.jpg?raw=true)
 
-
+# Login Page
 ![Login page](https://github.com/vimal046/eventapp/blob/main/login%20page.jpg?raw=true)
 
-
+# User Booking Details Page  
+- Book new events easily  
+- View and manage already booked events  
 ![user page](https://github.com/vimal046/eventapp/blob/main/page%20inside%20a%20user.jpg?raw=true)
 
-
+# Admin Page  
+The admin dashboard provides full event management features, including:  
+- Adding new events  
+- Updating existing event details  
+- Removing events when no longer needed  
 ![admin page](https://github.com/vimal046/eventapp/blob/main/Admin%20page.jpg?raw=true)
 
 
