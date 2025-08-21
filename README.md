@@ -52,7 +52,7 @@ npm run dev
 
 # Screenshots
 
-# Home Page
+### Home Page
 
 ![Home page](https://github.com/vimal046/eventapp/blob/main/home%20page.jpg?raw=true)
 
