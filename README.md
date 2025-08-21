@@ -51,7 +51,7 @@ npm install
 npm run dev
 
 # Screenshots
-![Home page]([image-link](https://github.com/vimal046/eventapp/blob/9513bbf0793c8b76f026119e4077a9300030d577/home%20page.jpg))
+![Home page](https://github.com/vimal046/eventapp/blob/main/home%20page.jpg?raw=true)
 # Future Improvements
 
 Payment gateway integration
