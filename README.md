@@ -54,16 +54,16 @@ npm run dev
 ![Home page](https://github.com/vimal046/eventapp/blob/main/home%20page.jpg?raw=true)
 
 
-![Register page]([image-link](https://github.com/vimal046/eventapp/blob/main/register.jpg?raw=true))
+![Register page](https://github.com/vimal046/eventapp/blob/main/register.jpg?raw=true)
 
 
-![Login page]([image-link](https://github.com/vimal046/eventapp/blob/main/login%20page.jpg?raw=true))
+![Login page](https://github.com/vimal046/eventapp/blob/main/login%20page.jpg?raw=true)
 
 
-![user page]([image-link](https://github.com/vimal046/eventapp/blob/main/page%20inside%20a%20user.jpg?raw=true))
+![user page](https://github.com/vimal046/eventapp/blob/main/page%20inside%20a%20user.jpg?raw=true)
 
 
-![admin page]([image-link](https://github.com/vimal046/eventapp/blob/main/Admin%20page.jpg?raw=true))
+![admin page](https://github.com/vimal046/eventapp/blob/main/Admin%20page.jpg?raw=true)
 
 
 # Future Improvements
